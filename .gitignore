@@ -1,0 +1,52 @@
+#vscode
+.vscode
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse (if applicable, for multi-IDE projects)
+.classpath
+.project
+.settings/
+bin/
+
+# Log files
+*.log
+logs/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test reports
+surefire-reports/
+failsafe-reports/
+
+# Other temporary files
+*.bak
+*.swp
+*~
